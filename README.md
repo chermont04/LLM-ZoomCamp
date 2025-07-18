@@ -17,8 +17,8 @@ This repository contains my personal notes, homework, and projects from the [LLM
 | Module | Title | Status |
 |--------|-------|--------|
 | Pre-course | Build a Search Engine | ✅ Completed |
-| Module 1 | Intro to LLMs & RAG, OpenAI API, Elasticsearch | 🔄 In Progress |
-| Module 2 | Vector Search, Embeddings, Qdrant, dlt | ⬜ Not Started |
+| Module 1 | Intro to LLMs & RAG, OpenAI API, Elasticsearch | ✅ Completed |
+| Module 2 | Vector Search, Embeddings, Qdrant, dlt | 🔄 In Progress |
 | Module A (Bonus) | Agents and Function Calling | ⬜ Not Started |
 | Module 3 | Evaluation, LLM as a Judge | ⬜ Not Started |
 | Module 4 | Monitoring and Dashboards | ⬜ Not Started |
